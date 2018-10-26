@@ -25,7 +25,8 @@ XAUDIO2_SRC_x28 = \
 	xaudio2.cpp \
 	XAudio2fx.cpp \
 	win_device.cpp \
-	X3DAudio.cpp
+	X3DAudio.cpp \
+	XAPOFX.cpp
 
 X3DAUDIO_SRC = 	X3DAudio.cpp
 
